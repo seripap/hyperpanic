@@ -1,6 +1,6 @@
 
-const backgroundColor = '#220000'
-const foregroundColor = '#ff3300'
+const backgroundColor = '#15181A'
+const foregroundColor = '#F8F7F1'
 const cursorColor = '#BA1F72'
 
 const colors = [
