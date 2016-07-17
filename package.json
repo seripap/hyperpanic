@@ -1,6 +1,6 @@
 {
   "name": "hyperpanic",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Panic theme for hyperterm",
   "main": "index.js",
   "keywords": [
@@ -8,7 +8,7 @@
     "hyperterm-theme",
     "colors",
     "hyperpanic"
-  ],  
+  ],
   "author": "Daniel Seripap",
   "license": "MIT"
 }
