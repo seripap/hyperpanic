@@ -1,14 +1,14 @@
 {
-  "name": "hyperterminator",
-  "version": "1.0.0-beta.3",
-  "description": "Hyperterm theme for cybernetic organisms",
+  "name": "hyperpanic",
+  "version": "1.0.0",
+  "description": "Panic theme for hyperterm",
   "main": "index.js",
   "keywords": [
     "hyperterm",
     "hyperterm-theme",
     "colors",
-    "terminator"
-  ],
-  "author": "Brent Jackson",
+    "hyperpanic"
+  ],  
+  "author": "Daniel Seripap",
   "license": "MIT"
 }

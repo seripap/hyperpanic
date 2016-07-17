@@ -1,35 +1,33 @@
 
 const backgroundColor = '#220000'
 const foregroundColor = '#ff3300'
-const cursorColor = foregroundColor
-const borderColor = 'rgba(255, 0, 0, .25)'
+const cursorColor = '#BA1F72'
 
 const colors = [
   backgroundColor,
-  '#ff3300',
-  '#ff6600',
-  '#ff6600',
-  '#ff0000',
-  '#cc0000',
-  '#ff0000',
-  '#994433',
-  '#994433',
-  '#ff0000',
-  '#ff3300',
-  '#ff6600',
-  '#ff6600',
-  '#ff0000',
-  '#ff0000',
+  '#CA2E50',
+  '#48A85C',
+  '#E4B97A',
+  '#5D747F',
+  '#D22B72',
+  '#6FBDB1',
+  '#7C8481',
+  '#454947',
+  '#CA2E50', 
+  '#48A85C',
+  '#E4B97A', 
+  '#5D747F', 
+  '#D22B72',
+  '#6FBDB1',
+  '#ffffff',
   foregroundColor
 ]
 
 exports.decorateConfig = config => {
-  console.log('H Y P E R T E R M I N A T O R')
 
   return Object.assign({}, config, {
     foregroundColor,
     backgroundColor,
-    borderColor,
     cursorColor,
     colors,
     termCSS: `
@@ -52,4 +50,3 @@ exports.decorateConfig = config => {
     `
   })
 }
-
