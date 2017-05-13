@@ -10,5 +10,9 @@
     "hyperpanic"
   ],
   "author": "Daniel Seripap",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seripap/hyperpanic.git"
+  },
   "license": "MIT"
 }
